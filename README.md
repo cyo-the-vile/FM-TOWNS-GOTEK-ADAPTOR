@@ -26,6 +26,8 @@ It is impossible to brick the gotek with this board.
 
 
 PAY ATTENTION TO THE PHOTOS YOU SEE TO INSTALL THIS PROPERLY. IT IS EASY TO MAKE A MISTAKE AND SOLDER THE CONNECTORS IMPROPERLY
+
+
 Bill of material:
 
 HWS5348  	2x17 pin Snap Header .1"sp R/A	
