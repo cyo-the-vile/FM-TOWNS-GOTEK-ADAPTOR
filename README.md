@@ -4,7 +4,7 @@ An FM Towns floppy emulator adaptor board
 
 I purchased my first FM TOWNS computer to restore and after restoring it I found out both my floppy drives didn't work! No matter what I did to try to bring them back to life! So I sought to make a solution so I can replace the floppy drive with something modern.
 
-The intent with this adaptor board is to use it to replace the floppy drive of an FM Towns computer very specifically Tower models for a floppy emulator like a GOTEK or HXC.  Im personally using goteks with flashfloppy firmware and they work extremely well with my CX20 and 20F.  This adaptor should work for any Towns PC with the TEAC drives. The UX20 I own is compatible as well. Some people report 
+The intent with this adaptor board is to use it to replace the floppy drive of an FM Towns computer very specifically Tower models for a floppy emulator like a GOTEK or HXC.  Im personally using goteks with flashfloppy firmware and they work extremely well with my CX20 and 20F.  This adaptor should work for any Towns PC with the TEAC drives. The UX20 I own is compatible as well. Some people report MX and MA models work but I don't own these to confirm.
 
 To summarize: It is confirmed for the tower models and U* models as they used the same base family of parts.  A Fresh model doesn't need this adaptor board.  If you are unsure take the floppy drive out of your computer. If it is the floppy drive below, you will need this adaptor board if you want to use a floppy drive emulator.
 
