@@ -15,6 +15,9 @@ https://fb.watch/2Kf5oHgrxs/
 This is a video showing the installation of this board with a Gotek with flashfloppy firmware in a CX20.  At a later time I will have a japanese installation guide or video.
 
 
+![GOTEK PHOTO](https://user-images.githubusercontent.com/64904215/103432443-6c61ca80-4ba4-11eb-8505-78080e599275.jpg)
+
+
 
 There will be 3 conditions when you finally fit this inside the computer:
 
@@ -35,3 +38,8 @@ HWS5348  	2x17 pin Snap Header .1"sp R/A
 HWS15789	2x17 pin Female Header .1"sp R/A
 
 Female arduino pin header 2.54mm size 
+
+
+![Black PCB](https://user-images.githubusercontent.com/64904215/103432467-ded2aa80-4ba4-11eb-811e-db43dd44c2c5.jpg)
+
+In this photo the orange female jumper is 5V and the yellow wire is GND. Plug them into the appropriate spot on the floppy emulator to power it properly.  If you mix them up you will brick your floppy emulator.
