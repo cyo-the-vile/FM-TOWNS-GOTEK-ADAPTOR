@@ -29,5 +29,7 @@ PAY ATTENTION TO THE PHOTOS YOU SEE TO INSTALL THIS PROPERLY. IT IS EASY TO MAKE
 Bill of material:
 
 HWS5348  	2x17 pin Snap Header .1"sp R/A	
+
 HWS15789	2x17 pin Female Header .1"sp R/A
+
 Female arduino pin header 2.54mm size 
